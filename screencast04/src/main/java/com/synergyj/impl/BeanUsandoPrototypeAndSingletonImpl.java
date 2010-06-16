@@ -44,4 +44,7 @@ public abstract class BeanUsandoPrototypeAndSingletonImpl implements
 	public void setBeanPrototype(BeanPrototype beanPrototype) {
 		this.beanPrototype = beanPrototype;
 	}
+
+	
+
 }
